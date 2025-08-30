@@ -59,7 +59,7 @@ cd BloodMaker
 3. Clone repository:
 
    ```bash
-   git clone https://github.com/USERNAME/BloodMaker
+   git clone https://github.com/Cylne/BloodMaker
    cd BloodMaker
    ```
 
