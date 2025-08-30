@@ -89,9 +89,7 @@ Menu Options:
 
 > Tampilan di Termux:
 
-![Screenshot](https://i.ibb.co/0h4W27K/termux-preview.png)
-*(Tambahkan screenshot hasil run di Termux/PC kalian di sini)*
-
+![Image](https://github.com/user-attachments/assets/328afee1-da27-49de-917e-55abd4ddfb33)
 
 
 ## 👑 Credits
