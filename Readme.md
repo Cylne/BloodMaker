@@ -63,6 +63,10 @@ cd BloodMaker
    cd BloodMaker
    ```
 
+## 🔑 Key 
+
+[Get Key](https://sfl.gl/4i8OI1JI)
+
 
 
 ## ▶️ Menjalankan Tools
